@@ -1,0 +1,1 @@
+int tratar(char buf[], int tam, char ret[]);

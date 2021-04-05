@@ -1,0 +1,1 @@
+int writetxt(int fd,char *texto);
